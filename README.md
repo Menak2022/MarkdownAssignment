@@ -54,4 +54,7 @@
     7. I then filtered Party for "Tobacco" only to show donors in the Tobacco industry
     8. I looked for the role "Philip Morris" appeared in and found my answer
 #### 4. Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.
+#### *Headline: Money Talks: Who's actually deciding elections in the US.*
+#### This story takes a look at this data and compares it to election results for the following election cycle. It explores whether the amount of donations democrats or republicans get in each state have an impact on which party wins election in each state.
 #### 5. What data might be suitable to join with this data to provide context or additional stories? Give me two examples.
+#### Data that will be needed are any election held during the time of these donations, no matter how much or small, and the results of these elections.
