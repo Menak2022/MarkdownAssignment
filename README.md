@@ -26,3 +26,7 @@
     5. I set "Filter" to Party and under "status" only checked D for which represents the Democratic party in the data
 #### 2. How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?
 ##### *Donors from the Misc. Business sector donated a total of $3,520,000 to the Democratic party. The donor that was based in Miami Lakes, FL was Windmere Corp.*
+`!['Q2-Misc Business','This shows the total amount that Misc. Business sector donated to the Democratic party as well as the cities each donors within the Misc Business sector that donoated to the Democratic party is based or headquartered'](/Q2 - Misc Business.png)`
+
+**Image from a .jpg file in the repo*
+!['Q2-MiscBusiness'](/Q2 - Misc Business.png)
