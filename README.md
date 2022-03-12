@@ -54,3 +54,4 @@
     7. I then filtered Party for "Tobacco" only to show donors in the Tobacco industry
     8. I looked for the role "Philip Morris" appeared in and found my answer
 #### 4. Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.
+#### 5. 5.	What data might be suitable to join with this data to provide context or additional stories? Give me two examples.
