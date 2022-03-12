@@ -39,8 +39,18 @@
     6. Under "Filter", I cleared all the original filters. 
     7. I then filtered Party for "D" only, and Sector as "Misc Business" only so that only one item was checked in the "status"
 #### 3. What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?
-##### *Philip Morris account for 70.42% of the tobacco industry's donations which was a total of $1,820,000*
+##### *Philip Morris account for 70.82% of the tobacco industry's donations which was a total of $1,820,000*
 `!['Q3-Tobacco','This shows the percentage of the tobacco industry's donation that Philip Morris accounts for as well as the total donated by Philip Morris'](/Q2-MiscBusiness.png)`
 
 **Image from a .jpg file in the repo*
 !['Q3-Tobacco'](/Q3-Tobacco.png)
+##### To answer this questions...
+    1. After cleaning the raw dataset in OpenRefine, I input the data into Google Sheets
+    2. I create a pivot table in Google Sheets
+    3. I set "Row" to Sector, Donor, "order" in ascending. I kept each "sort by" as their respective names and unchecked "total shows" under industry
+    4. I set "Values" to Amount twice. For the first Amount, I put "summarize by" as SUM and "show as" in % of column. For the second amount, I left "summarizey by" as SUM and "show as" in default
+    5. I set "Filter" to Industry
+    6. Under "Filter", I cleared all the original filters. 
+    7. I then filtered Party for "Tobacco" only to show donors in the Tobacco industry
+    8. I looked for the role "Philip Morris" appeared in and found my answer
+#### 4. Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.
